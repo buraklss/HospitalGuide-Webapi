@@ -1,0 +1,111 @@
+C:\Users\Gokce\Desktop\Proje\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.deps.json
+C:\Users\Gokce\Desktop\Proje\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.json
+C:\Users\Gokce\Desktop\Proje\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.dev.json
+C:\Users\Gokce\Desktop\Proje\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+C:\Users\Gokce\Desktop\Proje\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+C:\Users\Gokce\Desktop\Proje\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csprojAssemblyReference.cache
+C:\Users\Gokce\Desktop\Proje\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\Proje\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfoInputs.cache
+C:\Users\Gokce\Desktop\Proje\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfo.cs
+C:\Users\Gokce\Desktop\Proje\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+C:\Users\Gokce\Desktop\Proje\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+C:\Users\Gokce\Desktop\Proje\TasKagıtMakas\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.deps.json
+C:\Users\Gokce\Desktop\Proje\TasKagıtMakas\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.json
+C:\Users\Gokce\Desktop\Proje\TasKagıtMakas\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.dev.json
+C:\Users\Gokce\Desktop\Proje\TasKagıtMakas\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+C:\Users\Gokce\Desktop\Proje\TasKagıtMakas\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+C:\Users\Gokce\Desktop\Proje\TasKagıtMakas\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csprojAssemblyReference.cache
+C:\Users\Gokce\Desktop\Proje\TasKagıtMakas\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\Proje\TasKagıtMakas\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfoInputs.cache
+C:\Users\Gokce\Desktop\Proje\TasKagıtMakas\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfo.cs
+C:\Users\Gokce\Desktop\Proje\TasKagıtMakas\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+C:\Users\Gokce\Desktop\Proje\TasKagıtMakas\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+C:\Users\Gokce\Desktop\Proje Versiyon2\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\Proje Versiyon2\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfoInputs.cache
+C:\Users\Gokce\Desktop\Proje Versiyon2\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfo.cs
+C:\Users\Gokce\Desktop\Proje Versiyon2\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+C:\Users\Gokce\Desktop\Proje Versiyon2\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+C:\Users\Gokce\Desktop\Proje Versiyon2\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.deps.json
+C:\Users\Gokce\Desktop\Proje Versiyon2\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.json
+C:\Users\Gokce\Desktop\Proje Versiyon2\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.dev.json
+C:\Users\Gokce\Desktop\Proje Versiyon2\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+C:\Users\Gokce\Desktop\Proje Versiyon2\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+C:\Users\Gokce\Desktop\Proje Versiyon2\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csprojAssemblyReference.cache
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.deps.json
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.json
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.dev.json
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csprojAssemblyReference.cache
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfoInputs.cache
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfo.cs
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\Rardan2\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csprojAssemblyReference.cache
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\Rardan2\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\Rardan2\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfoInputs.cache
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\Rardan2\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfo.cs
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\Rardan2\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\Rardan2\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\Rardan2\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.deps.json
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\Rardan2\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.json
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\Rardan2\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.dev.json
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\Rardan2\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+C:\Users\Gokce\Desktop\Gra_project\HospitalGuide\Rardan2\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+C:\Users\Gokce\Desktop\Gra_project\Project_Database_Updated\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.deps.json
+C:\Users\Gokce\Desktop\Gra_project\Project_Database_Updated\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.json
+C:\Users\Gokce\Desktop\Gra_project\Project_Database_Updated\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.dev.json
+C:\Users\Gokce\Desktop\Gra_project\Project_Database_Updated\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+C:\Users\Gokce\Desktop\Gra_project\Project_Database_Updated\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+C:\Users\Gokce\Desktop\Gra_project\Project_Database_Updated\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csprojAssemblyReference.cache
+C:\Users\Gokce\Desktop\Gra_project\Project_Database_Updated\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\Gra_project\Project_Database_Updated\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfoInputs.cache
+C:\Users\Gokce\Desktop\Gra_project\Project_Database_Updated\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfo.cs
+C:\Users\Gokce\Desktop\Gra_project\Project_Database_Updated\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+C:\Users\Gokce\Desktop\Gra_project\Project_Database_Updated\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+C:\Users\ozank\OneDrive\Masaüstü\Project_Database_Updatedzip1\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.deps.json
+C:\Users\ozank\OneDrive\Masaüstü\Project_Database_Updatedzip1\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.json
+C:\Users\ozank\OneDrive\Masaüstü\Project_Database_Updatedzip1\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.dev.json
+C:\Users\ozank\OneDrive\Masaüstü\Project_Database_Updatedzip1\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+C:\Users\ozank\OneDrive\Masaüstü\Project_Database_Updatedzip1\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+C:\Users\ozank\OneDrive\Masaüstü\Project_Database_Updatedzip1\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csprojAssemblyReference.cache
+C:\Users\ozank\OneDrive\Masaüstü\Project_Database_Updatedzip1\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csproj.CoreCompileInputs.cache
+C:\Users\ozank\OneDrive\Masaüstü\Project_Database_Updatedzip1\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfoInputs.cache
+C:\Users\ozank\OneDrive\Masaüstü\Project_Database_Updatedzip1\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfo.cs
+C:\Users\ozank\OneDrive\Masaüstü\Project_Database_Updatedzip1\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+C:\Users\ozank\OneDrive\Masaüstü\Project_Database_Updatedzip1\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+F:\Projeler\Web\Projeler\burak\26.00.24\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.deps.json
+F:\Projeler\Web\Projeler\burak\26.00.24\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.json
+F:\Projeler\Web\Projeler\burak\26.00.24\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.dev.json
+F:\Projeler\Web\Projeler\burak\26.00.24\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+F:\Projeler\Web\Projeler\burak\26.00.24\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+F:\Projeler\Web\Projeler\burak\26.00.24\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csprojAssemblyReference.cache
+F:\Projeler\Web\Projeler\burak\26.00.24\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csproj.CoreCompileInputs.cache
+F:\Projeler\Web\Projeler\burak\26.00.24\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfoInputs.cache
+F:\Projeler\Web\Projeler\burak\26.00.24\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfo.cs
+F:\Projeler\Web\Projeler\burak\26.00.24\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+F:\Projeler\Web\Projeler\burak\26.00.24\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+F:\Projeler\Web\Projeler\burak\30ç12\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.deps.json
+F:\Projeler\Web\Projeler\burak\30ç12\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.json
+F:\Projeler\Web\Projeler\burak\30ç12\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.dev.json
+F:\Projeler\Web\Projeler\burak\30ç12\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+F:\Projeler\Web\Projeler\burak\30ç12\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+F:\Projeler\Web\Projeler\burak\30ç12\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csprojAssemblyReference.cache
+F:\Projeler\Web\Projeler\burak\30ç12\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csproj.CoreCompileInputs.cache
+F:\Projeler\Web\Projeler\burak\30ç12\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfoInputs.cache
+F:\Projeler\Web\Projeler\burak\30ç12\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfo.cs
+F:\Projeler\Web\Projeler\burak\30ç12\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+F:\Projeler\Web\Projeler\burak\30ç12\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.deps.json
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.json
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.dev.json
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\bin\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csprojAssemblyReference.cache
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.csproj.CoreCompileInputs.cache
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfoInputs.cache
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfo.cs
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.dll
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\HospitalGuide.Webapi.pdb
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

@@ -1,0 +1,12 @@
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\obj\Release\netcoreapp2.0\HospitalGuide.Webapi.csprojAssemblyReference.cache
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\obj\Release\netcoreapp2.0\HospitalGuide.Webapi.csproj.CoreCompileInputs.cache
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\bin\Release\netcoreapp2.0\HospitalGuide.Webapi.deps.json
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\bin\Release\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.json
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\bin\Release\netcoreapp2.0\HospitalGuide.Webapi.runtimeconfig.dev.json
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\bin\Release\netcoreapp2.0\HospitalGuide.Webapi.dll
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\bin\Release\netcoreapp2.0\HospitalGuide.Webapi.pdb
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\obj\Release\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfoInputs.cache
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\obj\Release\netcoreapp2.0\HospitalGuide.Webapi.AssemblyInfo.cs
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\obj\Release\netcoreapp2.0\HospitalGuide.Webapi.dll
+F:\Projeler\Web\Projeler\burak\webapi\HospitalGuide.Webapi\obj\Release\netcoreapp2.0\HospitalGuide.Webapi.pdb
